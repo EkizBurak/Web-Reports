@@ -1,5 +1,4 @@
 import sqlite3,argparse,datetime,sys,time,subprocess,os
-sys.path.append("C:/Users/2000005332/AppData/Local/Programs/Python/Python39/Lib/site-packages")
 t1=time.time()
 import schedule
 DHCPClients = []
